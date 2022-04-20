@@ -1,0 +1,126 @@
+html{
+font-family: 'Raleway',
+sans-serif;
+font-family: 'Roboto',
+sans-serif;
+color: rgb(0, 0, 0);
+font-size: auto;
+margin: auto;
+}
+.head1 {   
+color: white;
+line-height: normal;
+background-color: black; 
+cursor: pontier;
+height: 600px;
+width: 1600px;
+background-image: url(images/bh.svg);
+background-size: cover;
+padding-left: 500px;
+padding-top: 200px;
+padding-right: 700px;
+padding-bottom: 200px;
+}
+.header{
+   font-size: 14px;
+   margin-left: 70px;
+   margin-right:auto;
+   display: flex;
+   flex-direction: row;
+   justify-content:space-evenly;
+padding-bottom: 200px;
+padding-top: 0;  
+  
+   padding-right: 500px;
+}
+#botonservi {
+   cursor: pointer;
+   background-color: cornflowerblue;
+   color: white;
+   justify-content: center;
+   padding-left: 20px;
+   padding-right: 20px;
+   margin-right: 50px;
+   margin-left: 50px;
+}
+
+.card-set {
+   width: 100%;
+   display: flex;
+   flex-wrap: wrap;
+}
+.item{
+   display: flex;
+   flex-direction: column;
+         margin-top: 0;
+         font-size: 20px;
+}
+      
+.item p {
+display: flex;
+flex-direction: column;
+justify-content: baseline;
+margin: 0;
+}
+.integrants{
+   display: flex;
+   flex-basis: content;
+   flex-wrap: wrap;
+   justify-content: flex-start;
+   align-items: stretch;
+   margin-left: 70px;
+   margin-right:70px ;
+}
+.foot1{
+   color: white;
+   background-color: black;
+   font-size: 14px;
+}
+.webstudio1 {
+   color: blue;
+   font-size: 26px;
+}
+.webstudio2{
+   color: blue;
+font-size: 26px;
+}
+#botonesportafolio{
+   cursor: pointer; 
+}
+#linkcorreo{
+      color: white;
+      text-decoration:none;
+   }
+#linknumero {
+      color: white;
+      text-decoration:none;
+   }
+.aqnd{
+   size: 80px;
+}
+.container {
+      width: 1200px;
+      margin: 0 auto;
+      padding: 0 15px;
+}
+.webstudio11{
+   display: flex;
+   flex-direction: row;
+   justify-content:space-evenly;
+   align-items: flex-start;
+}
+.types{
+cursor: pointer;
+font-size: 14px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+padding-right: 500px;
+padding-bottom: 50px;
+
+}
+.srv{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: first baseline;
+}
