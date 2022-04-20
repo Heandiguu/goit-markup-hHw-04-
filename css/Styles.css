@@ -149,8 +149,8 @@ h2{
    width: 1170px;
    display: flex;
    flex-direction: row;
-   justify-content: ;
-   align-content:cnter;
+   justify-content: space-between;
+   align-content:center;
    margin-left:215px;
    margin-right:215px;
    margin-top: 50px;
